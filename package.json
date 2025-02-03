@@ -1,0 +1,12 @@
+{
+  "name": "multi-tenant-manager",
+  "version": "1.0.0",
+  "description": "This project provides a simple way to manage multiple MongoDB databases for a multi-tenant application using Mongoose.",
+  "main": "db-manager.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "waleedabark <waleed.abark@gmail.com>",
+  "license": "MIT"
+}
